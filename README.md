@@ -2,18 +2,6 @@
 
 This repository is a Kaggle competition submission for the classic **Titanic** dataset. The goal is to build a predictive model that determines whether a passenger survived the Titanic shipwreck based on features like age, sex, class, and more.
 
-## Purpose
-
-The purpose of this project is to **learn and apply essential machine learning techniques**, including:
-
-- Exploratory Data Analysis (EDA)
-- Feature engineering and selection
-- Data preprocessing pipelines
-- Handling missing values
-- Encoding categorical variables
-- Model training and evaluation
-- Improving prediction accuracy through iterations
-
 ## Dataset
 
 The dataset includes:
